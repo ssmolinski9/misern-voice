@@ -1,0 +1,12 @@
+Welcome in Misern Voice application.
+
+Usage: python misernvoice.py [parameters]
+
+Default usage without any parameters will open application with default mode.
+You can record your 3 seconds voice sample. Application will recognize language
+(english or german) and save this sample as wav file.
+
+Parameters:
+-h: you are here
+-s number: changes length of voice sample
+-f path: use wav file to generate charts
